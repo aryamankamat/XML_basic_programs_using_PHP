@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+  <student roll="101">
+    <name>Sindhu</name>
+    <city>Vizag</city>
+  </student>
+  <student roll="102">
+    <name>Rahul</name>
+    <city>Mysore</city>
+  </student>
+  <student roll="103">
+    <name>Chad</name>
+    <city>Romenia</city>
+  </student>
+</students>

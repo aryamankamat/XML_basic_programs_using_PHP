@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- internal DTD -->
+<!-- <!DOCTYPE Students [
+	<!ELEMENT Students (student+)>
+	<!ELEMENT student (roll,name,per)>
+	<!ELEMENT roll (#PCDATA)>
+	<!ELEMENT name (#PCDATA)>
+	<!ELEMENT per (#PCDATA)>
+]> -->
+
+<!-- external DTD -->
+<!-- <!DOCTYPE Students SYSTEM "demo.dtd"> -->
+
+<Students>
+
+	<student>
+		<roll>1</roll>
+		<name>Chad</name>
+		<per>99.9</per>
+	</student>
+	<student>
+		<roll>2</roll>
+		<name>ThunderCock</name>
+		<per>95.9</per>
+	</student>
+</Students>

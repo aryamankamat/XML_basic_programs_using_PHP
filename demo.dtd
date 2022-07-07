@@ -1,0 +1,8 @@
+<!ELEMENT Students (student+)>
+<!-- <!ELEMENT student (roll,name,per,college)> -->
+<!ELEMENT student (roll,name,per)>
+<!ELEMENT roll (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT per (#PCDATA)>
+<!-- <!ELEMENT college (#PCDATA)> -->
+<!-- <!ENTITY iccs "Indira college of comm and sci"> -->

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<College>
+  <cname>ICCS</cname>
+  <city>Pune</city>
+  <rank>A</rank>
+  <cname>ST.xevier</cname>
+  <city>Mumbai</city>
+  <rank>B</rank>
+  <cname>Spicer</cname>
+  <city>Pune</city>
+  <rank>C</rank>
+</College>

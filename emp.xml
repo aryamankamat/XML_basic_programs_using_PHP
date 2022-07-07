@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Employees>
+    <employee>
+        <emp_no>4004</emp_no>
+        <emp_name>Chad</emp_name>
+        <sal>70000</sal>
+        <designation>Manager</designation>
+    </employee>
+    <employee>
+        <emp_no>4005</emp_no>
+        <emp_name>Joe</emp_name>
+        <sal>20000</sal>
+        <designation>Accountent</designation>
+    </employee>
+</Employees>
